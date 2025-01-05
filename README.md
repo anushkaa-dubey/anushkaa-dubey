@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anushka Dubey</h1>
+<h1 align="center">Hello, I'm Anushka Dubey</h1>
 <h3 align="center">A passionate coder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkaa-dubey&label=Profile%20views&color=0e75b6&style=flat" alt="anushkaa-dubey" /> </p>
 
 - 🌱 I’m currently learning **Java, Flutter**
 
