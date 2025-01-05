@@ -1,7 +1,7 @@
-<h1 align="center">Hello, I'm Anushka Dubey</h1>
+<h1 align="center">Hi 👋, I'm Anushka Dubey</h1>
 <h3 align="center">A passionate coder</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushkaa-dubey" alt="anushkaa-dubey" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkaa-dubey&label=Profile%20views&color=0e75b6&style=flat" alt="anushkaa-dubey" /> </p>
 
 - 🌱 I’m currently learning **Java, Flutter**
 
