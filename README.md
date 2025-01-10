@@ -2,11 +2,11 @@
 <h3 align="center">A passionate coder</h3>
 
 
-- 🌱 I’m currently learning **Java, Flutter**
+- 🌱 I’m currently learning **Java and Flutter**
 
 - 📫 How to reach me **anushka25dubey@gmail.com**
 
-- ⚡ Fun fact **I am just a chill girl, with basic knowledge of coding**
+- ⚡ Fun fact : **I'm just a chill girl, with basic knowledge of coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
