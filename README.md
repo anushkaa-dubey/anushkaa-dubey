@@ -27,6 +27,6 @@
 <a href="https://www.credly.com/badges/54f5dac0-8d61-4bb3-b20e-d2c5a9b4f680" title="AWS Educate Introduction to Cloud 101 - Training Badge"><img src="https://images.credly.com/size/80x80/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" alt="AWS Educate Introduction to Cloud 101 - Training Badge" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkaa-dubey&show_icons=true&locale=en&layout=compact" alt="anushkaa-dubey" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkaa-dubey&show_icons=true&locale=en&layout=compact" alt="anushkaa-dubey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkaa-dubey&show_icons=true&locale=en" alt="anushkaa-dubey" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkaa-dubey&show_icons=true&locale=en" alt="anushkaa-dubey" /></p> -->
