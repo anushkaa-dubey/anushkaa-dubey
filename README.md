@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anushka Dubey</h1>
+<h1 align="center">Hii, I'm Anushka Dubey</h1>
 
 <p align="center">
-  <b>Full Stack Developer • AI Enthusiast • UI/UX</b>
+  <b>Full Stack Developer • AI Enthusiast • UI/UX Designer</b>
 </p>
 
 <p align="center">
