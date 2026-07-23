@@ -22,14 +22,6 @@ Building AI-powered applications & scalable web platforms
 
 ---
 
-## About Me
-
-- 🎓 B.Tech CSE @ VIT Bhopal
-- 💻 Full Stack Developer
-- 🤖 Interested in AI, RAG Systems & LLM Applications
-- 🌱 Currently exploring Machine Learning
-- ⚡ Built Legal AI, RAG Chatbots and Healthcare Applications
-- 📫 anushka25dubey@gmail.com
 
 
 ## Tech Stack
