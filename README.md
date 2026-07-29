@@ -1,5 +1,4 @@
-<h1 align="center">Hii, I'm Anushka Dubey</h1>
----
+<h1 align="center">Hii, I'm Anushka Dubey :) </h1>
 
 
 ## AWS Badges
